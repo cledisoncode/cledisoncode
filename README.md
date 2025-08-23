@@ -1,6 +1,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
-
+Graduando em Análise e Desenvolvimento de Sistema.Tenho Conhecimento de desenvolvimento frontend em linguagem de programação, Javascript,Typerscript,
 ---
 
 ## 🤖 Linguagens e Tecnologias
