@@ -23,25 +23,19 @@
 <br>
 
 ### 📊 Estatísticas
-<p>
+<div align="center">
    <img
-   align="left"
-   alt="GitHub Starts"
+   alt="GitHub Stats"
    height="200"
-   style="padding-right: 10px;"
    src="https://github-readme-stats.vercel.app/api?username=cledisoncode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
    >
 
    <img
-   align="left"
-   alt="GitHub Starts"
+   alt="GitHub Top Langs"
    height="200"
    src="https://github-readme-stats.vercel.app/api/top-langs?username=cledisoncode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+</div>
 
-</p>
-
-
-<br>
 <br>
 
 ## 📬 Contatos:
@@ -49,7 +43,3 @@
   <a href="mailto:cledison.viana.ti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cledison-viana-5579b0355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </p>
-
-
-
-
