@@ -1,7 +1,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ---
-Graduando em Análise e Desenvolvimento de Sistema.Tenho Conhecimento de desenvolvimento frontend em linguagem de programação, Javascript,Typerscript,
 
 
 ## 🤖 Linguagens e Tecnologias
@@ -41,7 +40,14 @@ Graduando em Análise e Desenvolvimento de Sistema.Tenho Conhecimento de desenvo
    height="200"
    src="https://github-readme-stats.vercel.app/api/top-langs?username=cledisoncode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 
- 
-
 </p>
+
+##Contatos
+<p align='left'>
+<a href = "mailto:cledison.viana.ti@gmail.com
+"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cledison-viana-5579b0355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</p>
+
+
 
