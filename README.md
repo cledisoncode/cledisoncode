@@ -1,5 +1,5 @@
 <div style="background-color: #242424;">
-   [![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=F70202&center=true&width=435&lines=Ol%C3%A1.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&center=true&width=435&lines=Ol%C3%A1.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento" alt="Typing SVG" /></a>
 
 
 ---
