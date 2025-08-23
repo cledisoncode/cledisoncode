@@ -19,12 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
 </div>
 
-##Contatos
-<p align='center'>
-<a href = "mailto:cledison.viana.ti@gmail.com
-"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cledison-viana-5579b0355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</p>
+
 
 <br>
 <br>
@@ -44,6 +39,13 @@
    alt="GitHub Starts"
    height="200"
    src="https://github-readme-stats.vercel.app/api/top-langs?username=cledisoncode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+
+   ##Contatos
+    <p align='center'>
+    <a href = "mailto:cledison.viana.ti@gmail.com
+    "><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/cledison-viana-5579b0355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img   loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</p>
 
 
 </p>
