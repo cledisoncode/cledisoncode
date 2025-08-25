@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Olá.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ---
 
