@@ -34,15 +34,15 @@ Estou em constante aprendizado, sempre buscando aprimorar minhas habilidades e c
 ## 📊 Estatísticas
 <div align="center">
    <img
+   alt="GitHub Top Langs"
+   height="200"
+   src="https://github-readme-stats.vercel.app/api/top-langs?username=cledisoncode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+
+  <img
    alt="GitHub Stats"
    height="200"
    src="https://github-readme-stats.vercel.app/api?username=cledisoncode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
    >
-
-   <img
-   alt="GitHub Top Langs"
-   height="200"
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=cledisoncode&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 </div>
 
 <br>
