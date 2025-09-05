@@ -1,7 +1,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Olá.Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ## Sobre Mim 👨‍💻
-<p>Meu nome é Cledison Viana, tenho 20 anos, sou de Belém do Pará, Brasil.Tenho conhecimento de desenvolvimento frontend com foco em: 
+<p style="font-size=2em">Meu nome é Cledison Viana, tenho 20 anos, sou de Belém do Pará, Brasil.Tenho conhecimento de desenvolvimento frontend com foco em: 
   Html5 e Css3,
   Javascript,
   Typescript,
