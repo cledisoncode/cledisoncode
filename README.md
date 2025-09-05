@@ -2,10 +2,10 @@
 
 ## Sobre Mim 👨‍💻
 <p>Meu nome é Cledison Viana, tenho 20 anos, sou de Belém do Pará, Brasil.Tenho conhecimento de desenvolvimento frontend com foco em: 
-  .Html5 e Css3
-  .Javascript
-  .Typescript
-  .React
+  Html5 e Css3,
+  Javascript,
+  Typescript,
+  React
 Estou em constante aprendizado, sempre buscando aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
 </p>
 
