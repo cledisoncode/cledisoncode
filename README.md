@@ -2,7 +2,7 @@
 
 ## Sobre Mim 👨‍💻
 <p>Tenho 20 anos, sou de Belém do Pará, Brasil.Tenho conhecimento de desenvolvimento frontend com foco em: 
-  Html5 e Css3,
+  Html e Css,
   Javascript,
   Typescript,
   React
