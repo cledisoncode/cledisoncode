@@ -10,7 +10,7 @@ Estou em constante aprendizado, sempre buscando aprimorar minhas habilidades e c
 </p>
 
 ## Cursando 🎓
-<p>4° semestre de Análise e Desenvolvimento de Sistema</p>
+<p>5° semestre de Análise e Desenvolvimento de Sistema</p>
 
 ## 🤖 Linguagens e Tecnologias
 
