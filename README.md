@@ -1,12 +1,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Olá,Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ## Sobre Mim 👨‍💻
-<p>Tenho 20 anos, sou de Belém do Pará, Brasil.Tenho conhecimento de desenvolvimento frontend com foco em: 
-  Html e Css,
-  Javascript,
-  Typescript,
-  React
-Estou em constante aprendizado, sempre buscando aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
+<p>Tenho 20 anos e sou graduando de Análise e Desenvolvimento de Sistemas.Sou desenvolvedor front-end focado na criação de interfaces modernas e responsivas com foco em HTML, CSS, JavaScript e React. Também trabalho com Node.js e MySQL para integração com APIs e modelagem de dados.
+<br>
+Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
 </p>
 
 ## Cursando 🎓
