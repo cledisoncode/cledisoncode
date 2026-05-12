@@ -1,7 +1,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Olá,Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ## Sobre Mim 👨‍💻
-<p>Tenho 21 anos e sou graduando de Análise e Desenvolvimento de Sistemas.Sou desenvolvedor web focado na criação de interfaces modernas e responsivas com foco em HTML, CSS, JavaScript e React. Também trabalho com Node.js e MySQL para integração com APIs e modelagem de dados.
+<p>Tenho 21 anos e sou graduando de Análise e Desenvolvimento de Sistemas.Sou Desenvolvedor Web focado na criação de interfaces modernas e responsivas com foco em HTML, CSS, JavaScript, React.js, Tailwind Css. Também trabalho no Back-end com Node.Js para integração com APIs e integrando soluções com bancos de dados MySQL e MongoDB .
 <br>
 Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
 </p>
@@ -20,43 +20,17 @@ Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
  
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-
 ###
-</div>
 
 <br>
 <br>
