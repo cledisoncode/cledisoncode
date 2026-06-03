@@ -1,7 +1,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=Olá,Sou+Cledison+Viana;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 ## Sobre Mim 👨‍💻
-<p>Tenho 21 anos e sou graduando de Análise e Desenvolvimento de Sistemas.Sou Desenvolvedor Web focado na criação de interfaces modernas e responsivas com foco em HTML, CSS, JavaScript, React.js, Tailwind Css. Também trabalho no Back-end com Node.Js para integração com APIs e integrando soluções com bancos de dados MySQL e MongoDB .
+<p>Tenho 21 anos, graduando de Análise e Desenvolvimento de Sistemas.Sou Desenvolvedor Web focado na criação de interfaces modernas e responsivas com foco em HTML, CSS, JavaScript, React.js, Tailwind Css. Também trabalho no Back-end com Node.Js para integração com APIs e integrando soluções com bancos de dados MySQL e MongoDB .
 <br>
 Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
 </p>
