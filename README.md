@@ -10,13 +10,16 @@ Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habi
 <p>6° semestre de Análise e Desenvolvimento de Sistema</p>
 
 ## 🤖 Linguagens e Tecnologias
-<h3 align="center">Frontend</h3>
+<h3 align="center">🎨Frontend</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">🖥️ Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
@@ -41,14 +44,9 @@ Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habi
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
  
 </div>
-###
+
 
 <br>
 <br>
