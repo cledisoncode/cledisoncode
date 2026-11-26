@@ -10,8 +10,10 @@ Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habi
 <p>6° semestre de Análise e Desenvolvimento de Sistema</p>
 
 ## 🤖 Linguagens e Tecnologias
-<h3 text-align="center" >Frontend</h3>
-https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+<h3 align="center" >Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</p>
 
 
 <div align="left">
