@@ -11,7 +11,7 @@ Sou um entusiasta do aprendizado contínuo sempre buscando aprimorar minhas habi
 
 ## 🤖 Linguagens e Tecnologias
 <h3 text-align="center" >Frontend</h3>
-[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 
 
 <div align="left">
